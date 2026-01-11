@@ -41,27 +41,21 @@ const CoachSamaSection = () => {
                 My Brands
               </h3>
               <div className="flex flex-wrap gap-8 mb-6">
-                <a href="/samafit" className="block">
                   <img
                     src={samaFitLogo}
                     alt="Sama.fit"
                     className="h-16 w-auto hover:scale-110 transition-transform cursor-pointer"
                   />
-                </a>
-                <a href="/justagirl" className="block">
                   <img
                     src={justAGirlLogo}
                     alt="Just A Girl"
                     className="h-16 w-auto hover:scale-110 transition-transform cursor-pointer"
                   />
-                </a>
-                <a href="/nerdoze" className="block">
                   <img
                     src={nerdozeLogo}
                     alt="Nerdoze"
                     className="h-16 w-auto hover:scale-110 transition-transform cursor-pointer"
                   />
-                </a>
               </div>
               <div className="flex gap-4">
                 <a
