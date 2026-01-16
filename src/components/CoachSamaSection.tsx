@@ -67,7 +67,7 @@ const CoachSamaSection = () => {
                   <Facebook size={20} />
                 </a>
                 <a
-                  href="https://instagram.com/CoachSama"
+                  href="https://www.instagram.com/coach.sama/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 rounded-full bg-white/10 hover:bg-white/20 flex items-center justify-center transition-all"
