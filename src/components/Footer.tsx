@@ -13,7 +13,7 @@ const Footer = () => {
               rel="noopener noreferrer"
               className="text-white hover:text-gray-300 transition-colors font-medium"
             >
-              Horus Codz
+              Sigma Codz
             </a>
           </p>
         </div>
