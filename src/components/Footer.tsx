@@ -8,7 +8,7 @@ const Footer = () => {
           <p className="text-sm text-gray-400 text-center">
             Developed by{" "}
             <a
-              href="https://www.instagram.com/horus_codz/"
+              href="https://www.instagram.com/sigma_cod/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white hover:text-gray-300 transition-colors font-medium"
